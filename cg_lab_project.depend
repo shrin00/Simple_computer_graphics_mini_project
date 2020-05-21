@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590080925 source:c:\users\lenovo\desktop\new folder\cg_lab_project\walking.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+
